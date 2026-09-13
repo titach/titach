@@ -1,5 +1,6 @@
-![AutumnFall](https://github.com/user-attachments/assets/82eb3cb7-5258-41e2-a736-0aeee5b7fd3a)
-Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" width="50"> My name is Tita Chaloeiros
+<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="1000">
+
+Hi <img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" width="100"> My name is Tita Chaloeiros
 ========================================================================================================================================
 
 Student
@@ -18,6 +19,7 @@ I'm a 2nd-year Computer Engineering student at Southeast Asia University, studyi
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/titach" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
