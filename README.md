@@ -26,4 +26,5 @@ I'm a 2nd-year Computer Engineering student at Southeast Asia University, studyi
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/titach"><img src="https://github-readme-streak-stats.herokuapp.com/?user=titach&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/titach">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=titach&stroke=ffffff&background=637980&ring=ff6e96&fire=ff6e96&currStreakNum=79dafb&currStreakLabel=79dafb&sideNums=ff6e96&sideLabels=ff6e96&dates=ffffff&hide_border=true" /></a>
